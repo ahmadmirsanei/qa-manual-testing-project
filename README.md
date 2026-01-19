@@ -1,6 +1,6 @@
-# QA Manual Testing Project - SauceDemo
+#QA Manual Testing Project - SauceDemo
 
-## Project Overview 
+##Project Overview 
 This repository contains a manual QA testing project conducted on the SauceDemo web application.
 The purpose of this project is to demonstrate my skill in manual testing, test design and defect reporting.
 
