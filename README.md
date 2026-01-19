@@ -1,2 +1,2 @@
 # qa-manual-testing-project
-manual testing project for SauceDemo web application
+Manual QA testing project for SauceDemo web application
