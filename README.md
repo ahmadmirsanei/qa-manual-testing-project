@@ -1,23 +1,23 @@
-#QA Manual Testing Project - SauceDemo
+# QA Manual Testing Project - SauceDemo
 
-##Project Overview 
+## Project Overview 
 
 This repository contains a manual QA testing project conducted on the SauceDemo web application.
 The purpose of this project is to demonstrate my skill in manual testing, test design and defect reporting.
 
-##Application Under Test 
+## Application Under Test 
 
 SauceDemo
 https://www.saucedemo.com/
 
-##Scope of Testing
+## Scope of Testing
 
 - Login functionality
 - Product listing 
 - Cart management
 - Checkout flow 
 
-##Types of Testing Performed
+## Types of Testing Performed
 
 - Functional Testing 
 - Positive & Negative Testing
@@ -25,19 +25,19 @@ https://www.saucedemo.com/
 - Exploratory Testing
 - Regression (basic)
 
-##Test Artifacts Included
+## Test Artifacts Included
 
 - Test Plan
 - Test Scenarios
 - Test Cases
 - Bug Reports
 
-##Tools Used
+## Tools Used
 
 - Browser: Chrome
 - Documentation: Markdown, Excel
 - OS: Windows
 
-##Author
+## Author
 Ahamd Mirsanei
 Aspiring QA/Test Analyst
