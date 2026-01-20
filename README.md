@@ -42,6 +42,9 @@ This repository contains:
 - Priority and Severity classification
 - Coverage categorization (Smoke, Regression, Validation)
 - Manual QA documentation structure
+- Bug Reports
+- Test Summary Report
+
 
 ---
 
