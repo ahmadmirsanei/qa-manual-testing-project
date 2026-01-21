@@ -44,7 +44,7 @@ This repository contains:
 - Manual QA documentation structure
 - Bug Reports
 - Test Summary Report
-
+- Requirement Traceability Matrix (RTM)
 
 ---
 
